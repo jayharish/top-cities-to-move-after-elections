@@ -1,0 +1,116 @@
+rank,city_name,state_name,County Name,Combined FIPS,votes_dem,votes_gop,Vote Difference,Diff as a % of total votes
+1,Rochester,MN,Olmsted County,27109,36266,35668,598,0.83%
+2,Iowa City,IA,Johnson County,19103,49942,20993,28949,40.81%
+3,Ann Arbor,MI,Washtenaw County,26161,128025,50335,77690,43.56%
+4,Olympia,WA,Thurston County,53067,65015,46219,18796,16.90%
+5,Charlottesville,VA,Charlottesville city,51540,17865,2951,14914,71.65%
+5,Charlottesville,VA,Albemarle County,51003,33297,19232,14065,26.78%
+6,Bellevue,WA,King County,53033,657149,197781,459368,53.73%
+7,Palo Alto,CA,Santa Clara County,6085,483472,137452,346020,55.73%
+7,Palo Alto,CA,San Mateo County,6081,219580,53731,165849,60.68%
+8,Madison,WI,Waukesha County,55133,79200,142521,-63321,-28.56%
+8,Madison,WI,Dane County,55025,217506,71270,146236,50.64%
+9,Overland Park,KS,Johnson County,20091,126324,133907,-7583,-2.91%
+10,Bismarck,ND,Burleigh County,38015,10865,32499,-21634,-49.89%
+11,Burlington,VT,Chittenden County,50007,54463,18298,36165,49.70%
+12,Newton,MA,Middlesex County,25017,508919,216163,292756,40.38%
+13,Rockville,MD,Montgomery County,24031,309761,82985,226776,57.74%
+14,Ithaca,NY,Tompkins County,36109,25555,9647,15908,45.19%
+15,Franklin,TN,Williamson County,47187,30992,68160,-37168,-37.49%
+16,Fort Collins,CO,Larimer County,8069,92170,82624,9546,5.46%
+17,Pleasanton,CA,Alameda County,6001,486351,91189,395162,68.42%
+18,Columbia,MD,Howard County,24027,93808,44792,49016,35.37%
+19,Arlington,VA,Arlington County,51013,91879,20155,71724,64.02%
+20,Pittsburgh,PA,Allegheny County,42003,363017,257488,105529,17.01%
+21,Cary,NC,Wake County,37183,298353,193607,104746,21.29%
+22,Manhattan,KS,Riley County,20161,8892,9817,-925,-4.94%
+23,Portland,ME,Cumberland County,23005,102935,57697,45238,28.16%
+24,Frederick,MD,Frederick County,24021,51891,56472,-4581,-4.23%
+25,Ames,IA,Story County,19169,25085,19111,5974,13.52%
+26,Woodbury,MN,Washington County,27163,67086,64429,2657,2.02%
+27,Fairfax,VA,Fairfax County,51059,354485,157837,196648,38.38%
+27,Fairfax,VA,Fairfax city,51600,7363,3695,3668,33.17%
+28,Cambridge,MA,Middlesex County,25017,508919,216163,292756,40.38%
+29,Bethesda,MD,Montgomery County,24031,309761,82985,226776,57.74%
+30,West Hartford,CT,Hartford County,9003,233789,147912,85877,22.50%
+31,Fargo,ND,Cass County,38017,31291,39738,-8447,-11.89%
+32,Alexandria,VA,Fairfax County,51059,354485,157837,196648,38.38%
+32,Alexandria,VA,Alexandria city,51510,57147,13241,43906,62.38%
+33,Columbia,MO,Boone County,29019,41072,36146,4926,6.38%
+34,Walnut Creek,CA,Contra Costa County,6013,286658,105819,180839,46.08%
+35,Boulder,CO,Boulder County,8013,124715,38766,85949,52.57%
+36,Edina,MN,Hennepin County,27053,429283,191768,237515,38.24%
+37,Naperville,IL,DuPage County,17043,222499,164355,58144,15.03%
+37,Naperville,IL,Will County,17197,146230,129726,16504,5.98%
+38,Chesapeake,VA,Chesapeake city,51550,52554,53988,-1434,-1.35%
+39,Sioux Falls,SD,Minnehaha County,46099,30610,42043,-11433,-15.74%
+39,Sioux Falls,SD,Lincoln County,46083,8076,15499,-7423,-31.49%
+40,saint paul,MN,Washington County,27163,67086,64429,2657,2.02%
+40,saint paul,MN,Ramsey County,27123,176929,70778,106151,42.85%
+40,saint paul,MN,Hennepin County,27053,429283,191768,237515,38.24%
+40,saint paul,MN,Dakota County,27037,110251,99624,10627,5.06%
+41,San Mateo,CA,San Mateo County,6081,219580,53731,165849,60.68%
+42,Bozeman,MT,Gallatin County,30031,23879,23360,519,1.10%
+43,Downers Grove,IL,DuPage County,17043,222499,164355,58144,15.03%
+44,Grand Forks,ND,Grand Forks County,38035,10828,16325,-5497,-20.24%
+45,White Plains,NY,Westchester County,36119,245670,121643,124027,33.77%
+46,Albany,NY,Albany County,36001,74775,44227,30548,25.67%
+47,Asheville,NC,Buncombe County,37021,74937,55339,19598,15.04%
+48,Roseville,CA,Placer County,6061,61969,78977,-17008,-12.07%
+49,Littleton,CO,Arapahoe County,8005,148365,109638,38727,15.01%
+49,Littleton,CO,Jefferson County,8059,151885,130233,21652,7.67%
+49,Littleton,CO,Douglas County,8035,67045,100178,-33133,-19.81%
+50,San Luis Obispo,CA,San Luis Obispo County,6079,63001,52672,10329,8.93%
+51,Renton,WA,King County,53033,657149,197781,459368,53.73%
+52,Brookline,MA,Norfolk County,25021,219129,119171,99958,29.55%
+53,Corvallis,OR,Benton County,41003,28431,13030,15401,37.15%
+54,Anchorage,AK,Anchorage Municipality,2020,93003,130413,-37410,-16.74%
+55,Chapel Hill,NC,Orange County,37135,59105,18373,40732,52.57%
+56,Santa Cruz,CA,Santa Cruz County,6087,85185,20158,65027,61.73%
+57,Lakewood,CO,Denver County,8031,174611,43637,130974,60.01%
+57,Lakewood,CO,Jefferson County,8059,151885,130233,21652,7.67%
+58,Reston,VA,Fairfax County,51059,354485,157837,196648,38.38%
+59,Irvine,CA,Orange County,6059,556544,472669,83875,8.15%
+60,Sarasota,FL,Sarasota County,12115,97676,124098,-26422,-11.91%
+60,Sarasota,FL,Manatee County,12081,71066,101681,-30615,-17.72%
+61,Ankeny,IA,Polk County,19153,119671,93421,26250,12.32%
+62,Longmont,CO,Boulder County,8013,124715,38766,85949,52.57%
+63,Ellicott City,MD,Howard County,24027,93808,44792,49016,35.37%
+64,San Rafael,CA,Marin County,6041,86650,17531,69119,66.35%
+65,Plano,TX,Collin County,48085,139837,200395,-60558,-17.80%
+66,Camarillo,CA,Ventura County,6111,170489,118764,51725,17.88%
+67,Lawrence,KS,Douglas County,20045,30089,14308,15781,35.55%
+68,Lincoln,NE,Lancaster County,31109,60533,60456,77,0.06%
+69,Cheyenne,WY,Laramie County,56021,11572,24844,-13272,-36.45%
+70,Kearney,NE,Buffalo County,31019,4690,14424,-9734,-50.93%
+71,East Lansing,MI,Ingham County,26065,81266,44354,36912,29.38%
+72,Aberdeen,SD,Brown County,46013,5452,9613,-4161,-27.62%
+73,Royal Oak,MI,Oakland County,26125,342976,289127,53849,8.52%
+74,Duluth,MN,St. Louis County,27137,57769,44631,13138,12.83%
+75,Des Moines,IA,Polk County,19153,119671,93421,26250,12.32%
+76,Missoula,MT,Missoula County,30063,30740,21699,9041,17.24%
+77,Minot,ND,Ward County,38101,5792,18601,-12809,-52.51%
+78,Richland,WA,Benton County,53005,25173,45594,-20421,-28.86%
+79,Santa Rosa,CA,Sonoma County,6097,116027,37421,78606,51.23%
+80,Ashburn,VA,Loudoun County,51107,99909,69633,30276,17.86%
+81,Gainesville,FL,Alachua County,12001,75370,46584,28786,23.60%
+82,Santa Barbara,CA,Santa Barbara County,6083,100120,53740,46380,30.14%
+83,Helena,MT,Lewis and Clark County,30049,14331,16665,-2334,-7.53%
+84,Boise,ID,Ada County,16001,75676,93748,-18072,-10.67%
+85,La Crosse,WI,La Crosse County,55063,32402,26384,6018,10.24%
+86,Berkeley,CA,Alameda County,6001,486351,91189,395162,68.42%
+87,Billings,MT,Yellowstone County,30111,21117,38675,-17558,-29.37%
+88,Burke,VA,Fairfax County,51059,354485,157837,196648,38.38%
+89,Eagan,MN,Dakota County,27037,110251,99624,10627,5.06%
+90,Norwalk,CT,Fairfield County,9001,238723,155457,83266,21.12%
+91,Portsmouth,NH,Rockingham County,33015,79994,90447,-10453,-6.13%
+92,Ventura,CA,Ventura County,6111,170489,118764,51725,17.88%
+93,Rockville Centre,NY,Nassau County,36059,307326,275479,31847,5.46%
+94,Bethlehem,PA,Northampton County,42095,65936,71384,-5448,-3.97%
+94,Bethlehem,PA,Lehigh County,42077,77087,70285,6802,4.62%
+95,Beverly,MA,Essex County,25009,220027,135405,84622,23.81%
+96,Edmonds,WA,Snohomish County,53061,167943,116433,51510,18.11%
+97,Centennial,CO,Arapahoe County,8005,148365,109638,38727,15.01%
+98,Saratoga Springs,NY,Saratoga County,36091,46546,51088,-4542,-4.65%
+99,Fayetteville,AR,Washington County,5143,32296,40418,-8122,-11.17%
+100,Fishers,IN,Hamilton County,18057,57214,87299,-30085,-20.82%
